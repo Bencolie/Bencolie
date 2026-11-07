@@ -9,7 +9,7 @@
 
 ### 🌱 What I'm Up To
 <!-- Need to be edit in the future -->
-* 💻 **Engineering:** Deepening my expertise in Design Patterns, .NET microservices, and secure backend architectures.
+* 💻 **Engineering:** Deepening my expertise in Design Patterns, .NET, and Google Cloud Platform.
 * 🚀 **Learning:** Sharpening core computer science skills via [Boot.dev](https://boot.dev). <!--Here is my [profile](https://www.boot.dev/u/bencolie54).-->
 * 📚 **Reading:** *Show Your Work!* by Austin Kleon.
 
