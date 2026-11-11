@@ -1,7 +1,7 @@
 <!-- Level 2: Using a README generator GPRM (https://gprm.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 👋 Hi, I'm Yong-Yin!
-🔭 **Master’s Student in Computer Science** at **CESI École d'Ingénieurs** (France)
+🔭 **Master’s Student in Computer Science** at **CESI École d'Ingénieurs** (France) <br/>
 👩🏻‍💻 Passionate about bridging practical problems with code <br/>
 👩🏻‍🎓 Graduated from Fu Jen Catholic University (Taiwan) in Mathematics Informatics and French Culture and Language <br/>
 
